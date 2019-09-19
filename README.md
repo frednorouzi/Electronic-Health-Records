@@ -1,2 +1,3 @@
 # Electronic-Health-Records
 Electronic Health Records (EHRs) are application systems that automate the activities of healthcare clinicians including physicians, nurses, physician assistants, and healthcare administrative staff. 
+Use of EHRs dramatically increased over the last ten years due to the systems’ benefits, federal government programs to deploy EHRs, and changes in healthcare reimbursement models that necessitate use of EHRs. This increased use of EHRs has many challenges including complex data, high security requirements, integration to multiple application systems, a distributed user base, and broad impact on how these users work.
